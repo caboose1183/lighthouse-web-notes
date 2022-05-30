@@ -6,6 +6,6 @@ This repository contains all of the notes taken by [Sidney](https://github.com/c
 
 ## Table of Contrents
 
-* [Week 1] (/week_1)
-  * [Day 1] (/week_1/day_1)
+* [Week 1](/week_1)
+  * [Day 1](/week_1/day_1)
 
